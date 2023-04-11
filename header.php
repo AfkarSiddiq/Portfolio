@@ -9,10 +9,6 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -49,10 +45,10 @@
         <img src="assets/img/tes2.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">M. Afkar Siddiq</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="#" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://wa.me/+6282169019974" class="whatsapp" target="_blank"><i class="bx bxl-whatsapp"></i></a>
+          <a href="https://www.facebook.com/afkarsiddiq0/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/afkar.siddiq/?hl=id" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.linkedin.com/in/afkar-siddiq-092556222/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
       <nav id="navbar" class="nav-menu navbar">
@@ -70,7 +66,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Alex Smith</h1>
-      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+      <h1>M. Afkar Siddiq</h1>
+      <p>I'm <span class="typed" data-typed-items="Informatic Student, "></span></p>
     </div>
   </section><!-- End Hero -->
