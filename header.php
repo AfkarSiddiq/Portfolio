@@ -19,23 +19,20 @@
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
+  
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: iPortfolio
-  * Updated: Mar 10 2023 with Bootstrap v5.2.3
-  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  <!-- make icon -->
+  <link href="assets/img/icon.jpg" rel="shortcut icon"/>
+  
 </head>
 
 <body>
 
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+
 
   <!-- ======= Header ======= -->
   <header id="header">
@@ -49,6 +46,7 @@
           <a href="https://www.facebook.com/afkarsiddiq0/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
           <a href="https://www.instagram.com/afkar.siddiq/?hl=id" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
           <a href="https://www.linkedin.com/in/afkar-siddiq-092556222/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://github.com/AfkarSiddiq/" class="Github" target="_blank"><i class="bx bxl-github"></i></a>
         </div>
       </div>
       <nav id="navbar" class="nav-menu navbar">
